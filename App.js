@@ -8,7 +8,7 @@ function App() {
     <div className={['App'].join(' ')}>
       <div className='appContainer'>
         <div>
-     
+        <HorizontalEg />
         </div>
         
         <div className='grid-egs'>
